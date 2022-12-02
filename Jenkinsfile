@@ -40,8 +40,8 @@ pipeline {
  #     	  	sh 'docker image push betillo/spring-webapp:latest'
  #           }
  #       }
- #   }
-#} 
+    }
+} 
 
 
  
